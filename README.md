@@ -22,7 +22,7 @@ sudo pacman -S qt6-base cmake make gcc
 
 Building from Source
 
-git clone [https://github.com/YOUR_USERNAME/MyTerminal.git](https://github.com/PHOBIA-main/MyTerminal.git)
+git clone [https://github.com/PHOBIA-main/MyTerminal.git](https://github.com/PHOBIA-main/MyTerminal.git)
 cd MyTerminal
 mkdir build && cd build
 cmake ..
